@@ -1,0 +1,297 @@
+После бокала понятней так и не стало, так что я прям «горю» сейчас)  
+Вот решил поэму накатать, будет как лёгкое чтиво) 
+Приятного чтения) 
+Почему к этому случаю я так прицепился: 
+Есть свидетель как минимум один, что как минимум один с проверяемых прятался в игровой. 
+Есть проверяющий который сказал что во время проверки был им обнаружен сегфолд(правда он его не выставил, а просто чуть занизил оценку) 
+С этичной стороны это не красиво, я ведь ждал вместо того, что поставить ноль на основании того, что отсутствовали на рабочем месте. А у некоторых действительно бывают разные обстоятельства. Им что теперь ноль ставить если хоть на пару секунд опоздали 
+Нарушены правила 21-shool запрещающие такие трюки. 
+1:47
+ 
+И таком образом в сухом остатке мы имеем: нарушены правила, сдата кривая работа — реакция бокала - была проведена беседа. Насчёт которой у меня есть некоторый скептизм, просто до того, как написать в канал, перекинулся пару словами в лс. с тем кто в тот день дежурил, так он про данное событие ничего уже не помнил, если конечно не тому не написал. Поэтому я ник проводившего беседу и попросил. 
+ 
+Я, конечно, понимаю необязательно давать тиж и не прошу уж тем более, но, если учесть все вышеперечисленное разве не стоило дать им дополнительную роверку в виде хорошо проверяющего человека? Интересно, а если бы я пришёл и сказал, что xxx сдал пустой проект такая же самая реакция была бы? Или ждём, когда массовый характер приобретёт? 
+Плюс интересно почему за доту тиж, а за такое беседа? Хотелось бы понять логику. Да и вообще понять какие правила можно нарушать без последствий, а за какие тиж получишь? А вообще может это я наклеветал и меня надо тогда наказать? 
+Был анонс что рандомные будут проверки. Много кто сомневается, что это будет кто-то делать, теперь и я у меня такие мысли появились. Ведь даже в этом случае такая странная реакция, где по факту плохой проект и где он завышена оценён причём проверяющий даже признался в этом. 
+Хотя, конечно, если это шутка была... - то другой разговор. Но мне чего-то не очень смешно. 
+ 
+Ещё важный вопрос: вопрос разночтения, так называемые спорные моменты. 
+Я много проверяю людей: по двум причинам: что бы могли сдать проект если слоты другие не ставят и что бы у каждого был шанс попасться на относительно строгую проверкую. 
+ 
+Поэтому я отлично знаю, что чек-листы, задания и даже та норма имеет спорные моменты. Причём эти моменты весьма так не плохо влияют на сложность задания, превращая легкае задание в не такое уже и легкое) 
+ 
+Я теперь понимаю почему другие кампуса сделали для себя другие холиграфы основной просто на просто ужасный как минимум из-за многочисленных неопределённостей. Но это конечно хардкордное решение. 
+Но можно сделать для нашего кампуса faq с ответами на все спорные вопросы: как проверять: что нужно проверять, а что излишнее цепляние, спорные моменты в заданиях и т. д. Это я уже предлагал, но особого отклика не заметил. Правда потом сам отменил в связи с анонсом насчёт проверок, но это не отменяет того факта что отклика особого не было. 
+Я, конечно, понимаю, что у адм/бокала и так работы куча, да и мы сами должны по идеи регулировать себя - самообучение ведь. Но ведь можно составление данного faq предоставить группе студентов. А администрации потом лишь готовый faq прочитать и проверить что бы не было никаких перегибов и потом при всем хорошим одобрить как официальный для решения спорных моментов. Все-таки нужно учитывать менталитет… 
+ 
+Зачастую ведь проверки проводятся некачественно именно из-за незнания. 
+Хотя это не отменяет проблемы, когда за плохой проект ставиться 125, по той причине, что за это ничего не будет. И проекты с гита, скачанные также. Я даже хотел проверить сам как это сдаётся, сдав проект, который делать не делал, но с такой реакцией... смысла делать на данный момент - нету, тем более скорей всего успешно сдам 
+Так что мне хочется узнать мнение администрации по поводу faq ? 
+ 
+Если администрация считает все написанное выше мной неважным или мое мнение ошибочно, то хотелось бы все-таки это услышать явно. Я ведь не Дон-Кихот и сражаться с ветряными мельницами не намерен) - я думаю найду более полезное применение своему времени. 
+ 
+Что бы было понятно, что тупая проверка по чек листу полный бред замечу вот что: можно написать программу так что она не сможет запускаться под Valgrind(инструмент для проверок на сеги и утечки), Leaks(инструмент нахождения утечек) не сможет детектить утечки. Более того можно тогда сделать так что будут подавляться все сеги, программа будет просто сообщать что ошибка произошла при выделении памяти и повторно запуститься.   
+Так же можно сделать так, что использование запрещённых функций не будет видно, без ручного поиска человеком который знает, что искать. Если костыльно, то это делается элементарно, покранимере в случае стандартных функций. Другими словами, printf я могу использовать спокойно и не кто знать даже не будет) Одно радует раньше, чем до ветки Virus дойдут навряд ли кто про это додумается. 
+В общем надеюсь на четкий и ясный ответ.
+
+
+Тебе нужно вынимать биты, например
+num = 11010110, нужно перевести в 10 си.
+(num >> 8) , получаем самую левую единицу. Проверяем является ли это единицей побитовым И, т.е. & 1.
+Если единица, то возводим в двойку в 8 степень. Восьмерку заменяйте на i и итерируетесь по числу. Там ещё много условностей которые разорвут ваш зад, вроде того что вам придётся использовать длинную арифметику.
+Но это уже другая история (edited) 
+
+find . -name '*.c' | cat -b
+
+
+CheckSpaceBetweenFunctions CheckNumberOfVariables CheckDefine CheckReturnParentheses CheckOperatorSpacing CheckNoArgFunction CheckFunctionSpacing CheckEndOfLine CheckMultipleEmptyLines CheckIndentationInsideFunction CheckPreprocessorIndentation CheckArgumentSpacing/
+CheckFilename CheckForbiddenKeyword CheckDeclarationInstanciation CheckTypeDeclarationSpacing CheckTypePrefixName CheckAlignement CheckDoubleInclusion CheckNumberOfLine CheckNestedTernary CheckIndentationOutsideFunction CheckControlStructure CheckBlock CheckTernaryOperator/
+ CheckMultipleAssignation CheckIndentationMultiline CheckCppComment CheckNamedParameters CheckUnaryOperator CheckColumnLength CheckIncludesBeforeFirstInstruction CheckEmptyLine CheckDeclarationCount CheckDeclarationPlacement CheckFunctionNumber CheckCommentsPlacement/
+ CheckCommentsFormat CheckTopCommentHeader CheckVla CheckCallSpacing CheckKeywordSpacing CheckElseIf CheckCase CheckGlobalTypePrefixName CheckBeginningOfLine CheckOneInstructionPerLine CheckComma CheckParentSpacing CheckParametersNumber CheckMultipleSpaces CheckBracketSpacing/
+  CheckForbiddenSourceHeader CheckInclude CheckSeparationChar
+
+	FILE *file1;
+	file1 = fopen("test.txt", "a");
+	fwrite(array->in.in_current->lp_b , 1 , array->in.in_current->count, file1);
+	fprintf(file1, " array->ws.ws_col %hu array->in.in_current->count %zu array->in.in_current->count_litter %zu array->in.in_current->count_litter_current %zu\n",
+	array->ws.ws_col,array->in.in_current->count, array->in.in_current->count_litter, array->in.in_current->count_litter_current);
+	fclose(file1);
+
+	FILE *file1;
+	file1 = fopen("/Users/admin/Subject/42sh/test.txt", "a");
+	fprintf(file1, "%s\n","test\n");
+	fclose(file1);
+	
+yy
+€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€
+
+123367
+12346578
+
+cat -e < 111 > 222 | cat -e
+
+CheckSpaceBetweenFunctions
+cat -e << EOF
+cat -e << EOF
+gfdg
+EOF
+nvnfg
+FIL
+FIL"
+fgfg
+"
+
+cat -e << EOF
+cat -e << EOF
+gfdg
+EOF
+nvnfg
+FIL
+FIL"
+fgfg
+"
+
+base64 /dev/urandom  >/Volumes/Storage/goinfre/amatilda/333  >/Volumes/Storage/goinfre/amatilda/111 < /dev/urandom < /dev/urandom
+
+base64 /dev/urandom | head -c 1000 | grep 42 | wc -l | sed -e 's/1/Yes/g' -e 's/0/No/g'>111
+ls | cat -e  | cat -e| cat -e| рcat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e| cat -e
+ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls | ls
+
+Roses are red
+Violets are blue
+All my base are belong to you
+And so are you
+
+cd /tmp; sort << EOF | cat -e > sorted_poem ; sed -e 's/Roses/Turnips/' <sorted_poem > better_poem; cd -; echo "I prefer turnips anyway" >> /tmp/better_poem; cat /tmp/better_poem
+
+
+
+cd \2 -errr
+cd куенпор\ нпгрол/ -errr
+
+
+
+ls
+ls -l
+cat -e <<EEE << AAA "'
+
+ls ;
+cat -e <<EOF <<FIL
+gfhfg
+dfgh
+EOF
+bgf
+FIL
+ls
+
+
+maccив чисел данно х число 
+целлый отрезок 
+сумма всех элементов больше или равно х и минимальная длина
+
+ls >111 "
+gjhgh
+"
+ls
+
+Выполнение сначала тестим алиасы потом все остально
+
+
+base64 < /dev/urandom | head -c 1000 | grep 42 | wc -l | sed -e s/1/Yes/g -e s/0/No/g
+
+
+COLORTERM HOME ITERM_PROFILE ITERM_SESSION_ID LC_CTYPE LC_TERMINAL LC_TERMINAL_VERSION LOGNAME PATH PWD SHELL SSH_AUTH_SOCK TERM TERM_PROGRAM TERM_PROGRAM_VERSION TERM_SESSION_ID TMPDIR USER XPC_FLAGS XPC_SERVICE_NAME __CF_USER_TEXT_ENCODING Apple_PubSub_Socket_Render COLORFGBG
+
+touch file1 && chmod 0777 file1 && touch file2 && chmod 1777 file2 && touch file3 && chmod 2777 file3 && touch file4 && chmod 3777 file4 && touch file5 && chmod 4777 file5
+
+touch file6 && chmod 5777 file6 && touch file7 && chmod 6777 file7 && touch file8 && chmod 7777 file8 && touch file9 && chmod 0000 file9 && touch file10 && chmod 1000 file10
+
+touch file11 && chmod 2000 file11 && touch file12 && chmod 3000 file12 && touch file13 && chmod 4000 file13 && touch file14 && chmod 5000 file14 && touch file15 && chmod 6000 file15 && touch file16 && chmod 7000 file16
+
+	static uint32_t			crc32[0x100];
+	size_t		count;
+
+	ft_crc32_tabl_mirror(crc32, 1, 0xEDB88320);
+	count = 0;
+	while (count < 0x100)
+	{
+		printf("%#x, %#x, %#x, %#x\n", crc32[count], crc32[count + 1], crc32[count + 2], crc32[count + 3]);
+		count += 4;
+	}
+	return (0);
+
+HOME=/tmp/symlink;cd -P
+
+		if (ft_42sh_parsing_litter_e_f_v(b, e) == '|')
+			b = ft_42sh_parsing_sp(b + 1, e);
+zz ; zz2 <<EOF
+
+ls
+ls
+
+# define ft_malloc(x) ((void *)(x - x))
+
+<<""
+gfhfg
+
+cat ${dfgh:?}
+ls
+
+sdfsd=dfss <amatilda.mak cat -e <author -b
+
+
+zz=${zzzz:=${zzzz1:=${zzzz2:=${zzzz3:=${zzzz4:=${zzzz5:=${zzzz6:=${zzzz7:=${zzzz8:=${zzzz9:=${zzzz10:=$PWD}}}}}}}}}}} env 
+echo $zz  $zzzz10 
+
+static void				fn_test()
+{
+	register t_main_42sh			*array;
+	register t_all_cmd_42sh			**spl_end;
+	register t_all_cmd_42sh			*cmd;
+
+	array = g_lp_array;
+	spl_end = array->lp_auto->spl_all_cmd;
+	if (array->lp_auto->b_view == 0)
+		return ;
+	while ((cmd = spl_end[0]) != 0)
+	{
+		ft_strlen(cmd->std.lp_key);
+		spl_end++;
+	}
+	exit(0);
+}
+
+ls -R / | ls -R /
+
+zz=bb;cat -e <<EOF
+ ${zz:?}
+EOF
+
+cat -e << 'БРЕД' -b | cat -e
+ 
+dsgd
+$PWD
+БРЕД
+
+${zz:?};ls 
+echo 'Отобразиться'
+
+leaks $$ | tail -1 | sed  's/.*://g'
+
+~/S   - не работает автодополнение
+
+
+массив переменной длины зачекать
+cd 
+
+"11111"
+
+
+Last login: Sun May 31 23:53:17 on ttys004
+Mac-Admin% /bin/bash -c 'arch -arch x86_64 '/Library/Developer/CommandLineTools/Library/PrivateFrameworks/LLDB.framework/Resources/darwin-debug' --unix-socket=/tmp/JY6DhT --arch=x86_64 --working-dir '/Users/admin/21sh' --disable-aslr --env='DYLD_INSERT_LIBRARIES=/usr/lib/libgmalloc.dylib' --env='MALLOC_STRICT_SIZE=1' --env='OS_ACTIVITY_DT_MODE=enable' --  '/Users/admin/21sh/21sh' ; echo Process exited with status $?';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Launching: '/Users/admin/21sh/21sh'
+Working directory: '/Users/admin/21sh'
+1 arguments:
+argv[0] = '/Users/admin/21sh/21sh'
+GuardMalloc[21sh-40763]: Allocations will be placed on byte boundaries.
+GuardMalloc[21sh-40763]:  - Overrunning a buffer will cause an immediate crash. (Good.)
+GuardMalloc[21sh-40763]:  - Applications expecting word-aligned pointers may fail (such as Carbon applications)
+GuardMalloc[21sh-40763]:  - Applications using vector instructions (e.g., SSE) may fail.
+GuardMalloc[21sh-40763]: version 109
+[23:54:51]admin(21sh)$>fhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfgfhfghfg
+
+
+static void			fn_while(register t_main_42sh *array,
+register char **spl, register void *str, register size_t b_view)
+{
+	register char					*tmp;
+	register char					*tempos;
+	struct stat						st;
+
+	while ((tmp = spl++[0]) != 0)
+	{
+		if (tmp[0] == '.' && tmp[1] == '/')
+		{
+			if ((tempos = (void *)ft_42sh_path_join(array->pwd.path.buff, tmp)) == 0)
+				ft_42sh_exit(E_MEM_CODE_42SH, __FILE__, __func__, __LINE__);
+			if ((tmp = (void *)ft_42sh_path_join(tempos, (void *)str)) == 0)
+				ft_42sh_exit(E_MEM_CODE_42SH, __FILE__, __func__, __LINE__);
+			ft_free(tempos);
+		}
+		else
+		{
+			if ((tmp = (void *)ft_42sh_path_join(tmp, (void *)str)) == 0)
+				ft_42sh_exit(E_MEM_CODE_42SH, __FILE__, __func__, __LINE__);
+		}
+		if (stat(tmp, &st) == 0 && (st.st_mode & S_IFMT) == S_IFDIR)
+		{
+			ft_42sh_cm_cd_set(array, (void *)tmp, str, b_view);
+			return (ft_free(tmp));
+		}
+		ft_free(tmp);
+	}
+	ft_42sh_dsp_err_msg_add_n(array, MSG_CD_NOT_VALID_42SH, (void *)str, 0);
+}
+
+
+Проверка на работу с fd: тут придеться нажать нескольто раз ctr + D
+42sh: suspended (tty input) : /bin/zsh $cmp 1> $outzsh 2>&1                                          
+Проверка на работу с fd: тут придеться нажать нескольто раз ctr + D
+42sh: suspended (tty input) : /bin/bash $cmp 1> $outbash 2>&1    
